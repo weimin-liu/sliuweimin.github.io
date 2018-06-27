@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: 
-use-site-title: true
+use-site-title: false
 ---
 
 # Research Experience
@@ -11,7 +11,7 @@ use-site-title: true
 
 	Ph.D. student, State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, China
 	
-	Supervisor: {Pro. Dr. Yuhong Liao](http://sourcedb.gig.cas.cn/zw/rck/201008/t20100827_2934165.html)
+	Supervisor: [Pro. Dr. Yuhong Liao](http://sourcedb.gig.cas.cn/zw/rck/201008/t20100827_2934165.html)
 
 - 2011–2015
 
