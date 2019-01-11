@@ -1,4 +1,4 @@
-url: "https://liuwm.me"
+url: "http://liuwm.me"
 baseurl: ""
 
 title: Weimin Liu
@@ -10,7 +10,7 @@ navbar-links:
   PUBLICATIONS: "publications"
   ABOUT ME: "about"
 
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.jpg"
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
